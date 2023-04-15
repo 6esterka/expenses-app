@@ -1,7 +1,7 @@
 # Project Title
 Expenses App
 # Motivation
-I built this application to show my React developing skills.
+I built this application to show my base React developing skills.
 # Description
 This app can show you your expenses throughout the year. 
 All expenses are filtered by the year. 
